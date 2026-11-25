@@ -1,0 +1,27 @@
+{
+  "name": "wangjiani-homepage",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "王佳妮的个人主页：淡彩插画风格的个人介绍、作品与爱好展示。",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "lucide-react": "0.469.0",
+    "motion": "^14.0.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.28.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.11"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
